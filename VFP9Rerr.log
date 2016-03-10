@@ -1,0 +1,2894 @@
+
+
+Fatal error: Exception code=C0000005 @ 01/06/2014 23:52:01. Error log file: C:\Users\usuario\Desktop\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  confecciona_txt_obleas_individual.command7.click line 68  {c:\users\usuario\desktop\soft\sistemagnc\vcx\gnc.vct c:\users\usuario\desktop\soft\sistemagnc\vcx\gnc.vct}
+	Called from -  app.doform line 8  {c:\users\usuario\desktop\soft\sistemagnc\vcx\system.vct c:\users\usuario\desktop\soft\sistemagnc\vcx\system.vct}
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 269  {C:\Users\usuario\Desktop\Soft\SistemaGNC\fuentes\arrancar.prg c:\users\usuario\desktop\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 04-07-2014 13:59:31. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 04-07-2014 16:36:16. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 23-07-2014 14:51:17. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  gnc_ing_ot_manual_1.aceptar.click line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\usuario-pc\d\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 23-07-2014 15:33:56. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 28-07-2014 17:28:30. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 01-08-2014 14:34:31. Error log file: \\Usuario-pc\d\Soft\SistemaGNC\VFP9Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 28-05-2015 11:19:05. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  gnc_ing_ot_manual_1.imprimir line 0  { }
+	Called from -  gnc_ing_ot_manual_1.aceptar.click line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 28-05-2015 11:19:42. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  gnc_ing_ot_manual_1.imprimir line 0  { }
+	Called from -  gnc_ing_ot_manual_1.aceptar.click line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 28-05-2015 11:19:43. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  gnc_ing_ot_manual_1.imprimir line 0  { }
+	Called from -  gnc_ing_ot_manual_1.aceptar.click line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000005 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:36. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:37. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:38. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:39. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 01-06-2015 17:25:40. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log
+	Called from -  errmanager line 0  { errmanager.fxp}
+	Called from -  ON...  line 0  { }
+	Called from -  app.doform line 0  { }
+	Called from -  ON...  line 0  { }
+	Called from -  arrancar line 0  { \\servidor\gnc ingeniería\soft\sistemagnc\administracion_17.exe}
+	Called from -  cargador line 4  {\\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\cargador.prg \\servidor\gnc ingeniería\soft\sistemagnc\administracion.exe}
+
+
+Fatal error: Exception code=C0000006 @ 24-09-2015 18:02:46. Error log file: \\SERVIDOR\GNC Ingeniería\Soft\SistemaGNC\VFP9Rerr.log

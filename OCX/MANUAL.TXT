@@ -1,0 +1,35 @@
+
+Correr instalador del Sistema
+
+Instalar
+c:\windows\system\regsvr32.exe zlibtool.ocx
+c:\windows\system\regsvr32.exe percnt32.ocx
+c:\windows\system\regsvr32.exe mci32.ocx
+c:\windows\system\regsvr32.exe richtx32.ocx
+c:\windows\system\regsvr32.exe comctl32.ocx
+
+
+Crear una coneccion odbc de nombre Foxpro Files - Word como tabla libre de VFP
+
+Instalar e-fax
+Renombrar la impresora com <email>
+Debo tener instalado el outloock y configurar el e-fax para viwear exe y para que utilice
+el oulook como salida, esto lo hago cuando instalo el e-fax.-
+Nota : para usarlo Genero el archivo adjunto y lo salvo en \bar1, luego mando el email.-
+
+Instalar la fuente para codigos de barra
+Ir a panel de control - Fuentes - Archivo - instalar nueva fuente - Aca debo elegir la fuente
+en el lugar que la tenga (barcode128.ttf)
+
+Debo instalar 3 impresoras de nombre recibo_inq , recibo_pro y liqui_pro con las medidas de papel
+que tenga la inmobiliaria para cada uno de estos comprobantes.-
+
+Nota : En recibo_inq saldrá todo lo que hace referencia a recibos de inquilinos
+       En recibo_pro saldrá todo lo que hace referencia a recibos a propietarios
+       En liqui_pro  saldrá lo que hace referencia a liquidaciones a propietarios
+
+Es importante saber que esta parte del sistema se debe parametrizar para cada cliente 
+en particular.-
+
+
+

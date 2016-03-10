@@ -1,0 +1,63 @@
+*       *********************************************************
+*       *                                                         
+*       * 27-10-2011              END.MPR               13:08:48  
+*       *                                                         
+*       *********************************************************
+*       *                                                         
+*       * Nombre del autor                                        
+*       *                                                         
+*       * Copyright (C) 2011 Nombre de compañía                   
+*       * Dirección                                               
+*       * Ciudad,     Código pos                                  
+*       * País                                              
+*       *                                                         
+*       * Descripción:                                            
+*       * Este PROGRAMA lo ha generado automáticamente GENMENU.    
+*       *                                                         
+*       *********************************************************
+
+
+*       *********************************************************
+*       *                                                         
+*       *                    Definición de menú                   
+*       *                                                         
+*       *********************************************************
+*
+
+SET SYSMENU TO
+SET SYSMENU AUTOMATIC
+
+DEFINE PAD _3ch0s6esy OF _MSYSMENU PROMPT "Archivo" COLOR SCHEME 3 ;
+	KEY ALT+A, ""
+DEFINE PAD _3ch0s6esz OF _MSYSMENU PROMPT "Operaciones" COLOR SCHEME 3 ;
+	KEY ALT+O, ""
+DEFINE PAD _3ch0s6et0 OF _MSYSMENU PROMPT "Informes" COLOR SCHEME 3 ;
+	KEY ALT+I, ""
+ON PAD _3ch0s6esy OF _MSYSMENU ACTIVATE POPUP archivo
+ON PAD _3ch0s6esz OF _MSYSMENU ACTIVATE POPUP operacione
+ON PAD _3ch0s6et0 OF _MSYSMENU ACTIVATE POPUP informes
+
+DEFINE POPUP archivo MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF archivo PROMPT "Marcas de peliculas"
+DEFINE BAR 2 OF archivo PROMPT "ICI"
+DEFINE BAR 3 OF archivo PROMPT "Ubicación ICI"
+DEFINE BAR 4 OF archivo PROMPT "Medidas de peliculas"
+ON SELECTION BAR 1 OF archivo oApp.formulario("marca","Archivo de marcas de peliculas","")
+ON SELECTION BAR 2 OF archivo oApp.formulario("ici","Archivo de marcas de I.C.I.","")
+ON SELECTION BAR 3 OF archivo oApp.formulario("u_ici","Archivo de ubicación de ICI","")
+ON SELECTION BAR 4 OF archivo oApp.formulario("marca","Archivo de medidas de peliculas","")
+
+DEFINE POPUP operacione MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF operacione PROMPT "Evaluacion radiográfica de soldaduras"
+DEFINE BAR 2 OF operacione PROMPT "Consulta de evaluacion radiográfica de soldaduras"
+DEFINE BAR 3 OF operacione PROMPT "\-"
+DEFINE BAR 4 OF operacione PROMPT "Planilla TGN"
+ON SELECTION BAR 1 OF operacione oApp.doform("planilla_end")
+ON SELECTION BAR 2 OF operacione oApp.doform("consulta_end")
+ON SELECTION BAR 4 OF operacione oApp.doform("planilla_tgn")
+
+DEFINE POPUP informes MARGIN RELATIVE SHADOW COLOR SCHEME 4
+DEFINE BAR 1 OF informes PROMPT "Informes de rechazos"
+DEFINE BAR 2 OF informes PROMPT "Informe de trazabilidad"
+ON SELECTION BAR 1 OF informes oApp.doform("rechazo_end")
+ON SELECTION BAR 2 OF informes oApp.doform("trazabilidad_end")
